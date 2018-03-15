@@ -1,9 +1,9 @@
 {
-  "people": [
-    { "name": "Fred", "title": "Mr" },
-    { "name": "Dave", "title": "Dr" },
-    { "name": "Carole", "title": "Queen" }
+  "people" : [
+    { "name" : "Fred",   "title" : "Mr" },
+    { "name" : "Dave",   "title" : "Dr" },
+    { "name" : "Carole", "title" : "Queen" }
   ]
   ,
-  "total": 3
+  "total" : 3
 }
